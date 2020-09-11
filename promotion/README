@@ -1,0 +1,5 @@
+Run Test by following command 
+mvn test 
+
+Run main method to execute ScenarioB by following command
+mvn compile exec:java
